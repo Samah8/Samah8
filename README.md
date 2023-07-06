@@ -11,7 +11,7 @@ Hi  👋,
 
 🧠 Skills
 
- C - C++ -C# -HTML -HTML5 -CSS3 -CSS2 -JavaScript -Node -Angulr -.NET Core -Asp .Net MVC -LINQ -Web API -OOP -Data Structure -Entity Framework -java -ADO -Dart -Flutter  
+ C - C++ -C# -HTML -HTML5 -CSS3 -CSS2 -JavaScript -Node -Angular -.NET Core -Asp .Net MVC -LINQ -Web API -OOP -Data Structure -Entity Framework -java -ADO -Dart -Flutter  
  
  
 🚴 Hobbies
